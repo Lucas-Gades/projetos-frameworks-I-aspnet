@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\views\\notas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\notas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\models\\vendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\models\\nota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\controllers\\vendedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\views\\notas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\notas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\views\\notas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\notas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Migrations\\20250526192908_create-notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LojaDeCarros\\Migrations\\20250526192908_create-notas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\controllers\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|d:\\onedrive-msfft\\onedrive - msft\\desktop\\projetos-frameworks-i--aspnet-\\lojadecarros\\lojadecarros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D7C3B729-BB9A-442F-8A8A-C99F257EB346}|LojaDeCarros\\LojaDeCarros.csproj|solutionrelative:lojadecarros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Notas\\Create.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Notas\\Create.cshtml",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Notas\\Create.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Notas\\Create.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T19:39:09.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Notas\\Index.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Notas\\Index.cshtml",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Notas\\Index.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Notas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T19:20:04.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nota.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Models\\Nota.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Models\\Nota.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Models\\Nota.cs",
+              "RelativeToolTip": "LojaDeCarros\\Models\\Nota.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:15:28.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Controllers\\NotasController.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "LojaDeCarros\\Controllers\\NotasController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAF8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:09:04.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendedoresController.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\VendedoresController.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Controllers\\VendedoresController.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\VendedoresController.cs",
+              "RelativeToolTip": "LojaDeCarros\\Controllers\\VendedoresController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:28:25.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vendedor.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Models\\Vendedor.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Models\\Vendedor.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Models\\Vendedor.cs",
+              "RelativeToolTip": "LojaDeCarros\\Models\\Vendedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:20:34.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Controllers\\ClientesController.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "LojaDeCarros\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:08:21.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Notas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Notas\\Edit.cshtml",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Notas\\Edit.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Notas\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T19:29:59.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250526192908_create-notas.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Migrations\\20250526192908_create-notas.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Migrations\\20250526192908_create-notas.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Migrations\\20250526192908_create-notas.cs",
+              "RelativeToolTip": "LojaDeCarros\\Migrations\\20250526192908_create-notas.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:29:08.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Models\\Cliente.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Models\\Cliente.cs",
+              "RelativeToolTip": "LojaDeCarros\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:20:52.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LojaDeCarros\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-26T19:10:14.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CarrosController.cs",
+              "DocumentMoniker": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\CarrosController.cs",
+              "RelativeDocumentMoniker": "LojaDeCarros\\Controllers\\CarrosController.cs",
+              "ToolTip": "D:\\OneDrive-MSFFT\\OneDrive - MSFT\\Desktop\\projetos-frameworks-I--aspnet-\\LojaDeCarros\\LojaDeCarros\\Controllers\\CarrosController.cs",
+              "RelativeToolTip": "LojaDeCarros\\Controllers\\CarrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T19:07:03.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
